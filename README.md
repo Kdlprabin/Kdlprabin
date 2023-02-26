@@ -19,3 +19,5 @@
 
 <img align="center"  src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </p>
+
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Kdlprabin/Kdlprabin/main/devcard.svg" width="400" alt="Prabin Kandel's Dev Card"/></a>
