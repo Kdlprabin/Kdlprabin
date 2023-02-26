@@ -20,4 +20,4 @@
 <img align="center"  src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
 </p>
 
-<img src="https://github.com/Kdlprabin/Kdlprabin/devcard.svg" width="400" alt="Prabin Kandel's Dev Card"/>
+<img src="https://github.com/Kdlprabin/Kdlprabin/blob/main/devcard.svg" width="400" alt="Prabin Kandel's Dev Card"/>
