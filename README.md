@@ -4,8 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Prabin+Kandel....;Web+Developer+|+React;Nice+to+meet+you!&center=true&size=28">
   </a>
 </h1
-  
-  
+   
 <hr>
   
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kdlprabin&" alt="Kdlprabin" /></p>
