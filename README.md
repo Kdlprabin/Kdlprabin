@@ -21,6 +21,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kdlprabin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://github.com/Kdlprabin/Kdlprabin/blob/main/devcard.svg" width="400" alt="Prabin Kandel's Dev Card"/>
