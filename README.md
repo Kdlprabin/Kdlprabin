@@ -14,19 +14,8 @@
 # 📊 GitHub Stats:
 <div align="center">
   <p>
-    
-![](https://github-readme-stats.vercel.app/api?username=kdlprabin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-    
-  </p>
-  <p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kdlprabin&theme=dark&hide_border=false)<br/>
-
-    
-  </p>
-  <p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kdlprabin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
     
   </p>
