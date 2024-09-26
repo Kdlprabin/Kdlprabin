@@ -6,7 +6,7 @@
 </h1
   
 # 💫 About Me:
-🔭 I’m currently working Ecommerce<br>🌱 I’m currently learning Next JS
+🔭 I’m currently working on Todo app<br>🌱 I’m currently learning Next JS
 
 
 # 💻 Tech Stack:
